@@ -34,3 +34,6 @@ Personal research on how El Niño, Indonesian rainfall and fire activity link to
 
 **[Minimind-finetune](https://github.com/Shelikeit69/Minimind-finetune)**
 Replication exercise based on MiniMind: pre-training, instruction tuning, finance fine-tuning and financial sentiment classification on a single GPU.
+
+**[ledger-balance-tool](https://github.com/Shelikeit69/ledger-balance-tool)**<br>
+Desktop ledger reconciliation tool in Python. Rule-based matching handles the clear cases, an LLM reviews the ambiguous ones, and the user confirms every match. Early-stage MVP.
