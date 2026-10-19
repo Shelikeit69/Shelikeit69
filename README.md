@@ -1,4 +1,4 @@
-## Hi, I'm Toni (Zhang Lin Si Cheng)
+## Hi, I'm Toni.
 
 Singapore-based. I work across finance and analytics, and I build small tools in Python on the side.
 
