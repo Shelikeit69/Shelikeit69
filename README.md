@@ -23,16 +23,16 @@ HackerRank SQL (Advanced), October 2026. Click the badge to verify.
 
 ### Projects
 
-**[grammar-analysis](https://github.com/Shelikeit69/grammar-analysis)**
+**[grammar-analysis](https://github.com/Shelikeit69/grammar-analysis)**<br>
 English grammar analyzer for Chinese learners. It marks sentence parts in color and adds Chinese notes, tense and a translation. Runs in the browser with your own DeepSeek key. [Try it](https://shelikeit69.github.io/grammar-analysis/)
 
-**[sg-haze-window](https://github.com/Shelikeit69/sg-haze-window)**
+**[sg-haze-window](https://github.com/Shelikeit69/sg-haze-window)**<br>
 Hourly PM2.5 forecast for Singapore during transboundary haze, to help people pick lower-exposure times for outdoor activity. AI4Climate 2026 entry.
 
-**[haze-drivers-research](https://github.com/Shelikeit69/haze-drivers-research)**
+**[haze-drivers-research](https://github.com/Shelikeit69/haze-drivers-research)**<br>
 Personal research on how El Niño, Indonesian rainfall and fire activity link to haze in Singapore, with a short paper and reproducible Python code. Not peer reviewed.
 
-**[Minimind-finetune](https://github.com/Shelikeit69/Minimind-finetune)**
+**[Minimind-finetune](https://github.com/Shelikeit69/Minimind-finetune)**<br>
 Replication exercise based on MiniMind: pre-training, instruction tuning, finance fine-tuning and financial sentiment classification on a single GPU.
 
 **[ledger-balance-tool](https://github.com/Shelikeit69/ledger-balance-tool)**<br>
